@@ -1,0 +1,9 @@
+.build
+.mbed
+projectfiles
+*.py*
+build/
+mbed-os.lib
+mbed-os/
+resources/
+CONTRIBUTING.md
